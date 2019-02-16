@@ -1,0 +1,13 @@
+obj\Debug\ProteinDataSeperatorApplication.exe
+obj\Debug\ProteinDataSeperatorApplication.pdb
+bin\Debug\ProteinDataSeperatorApplication.exe
+bin\Debug\ProteinDataSeperatorApplication.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ProteinDataSeperatorApplication.ProteinSeperationConsole.resources
+obj\Debug\ProteinDataSeperatorApplication.Properties.Resources.resources
+obj\Debug\ProteinDataSeperatorApplication.csproj.GenerateResource.Cache
+bin\Debug\ProteinDataSeperationLib.dll
+bin\Debug\ProteinDataSeperationLib.pdb
+bin\Debug\ProgressReporter.dll
+bin\Debug\ProgressReporter.pdb
+bin\Debug\QDataTableSelectorDialog.dll
